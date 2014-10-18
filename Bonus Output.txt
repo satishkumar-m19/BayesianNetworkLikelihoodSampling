@@ -1,0 +1,14 @@
+Solution A 
+1.	The fraction of customers who receive a busy signal : 0.0 % 
+Solution B 
+The Average (Start time - arrival time ) : 0.0
+The Average (Finish Time - arrival time ) : 3.1666667
+The Average (Finish Time - Start time ) : 3.1666667
+Solution C 
+The average waiting time : 0.0
+Solution D 
+The Portion of customers done by 1st assistant : 3 that is  16.666668 % 
+The Portion of customers done by 2nd assistant : 6 that is 33.333336 % 
+The Portion of customers done by 3rd assistant : 2 that is 11.111112 % 
+The Portion of customers done by 4th assistant : 5 that is 27.777779 % 
+The Portion of customers done by 5th assistant : 2 that is 11.111112 % 

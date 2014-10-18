@@ -1,0 +1,14 @@
+Please follow the below instructions
+
+Please Note : 
+1. The file has to be run as an administrator, If you are running through cmd/IDE then we need to open the application as administrator, because to create the 
+   output file, admin access might be required
+2. Please place the input file in C:/inputfile.txt, the file extension should be "TXT"
+
+Steps to run the java file
+
+1. copy and paste the java files in one folder or import the files as a project.
+2. run the file "BayesianNetworkLikelihoodSampling.java" (this is the file which contains the main function)
+3. once you run the file, this will provide the instructions and prompt for the input file name in the console. 
+4. Please provide only the filename, with out the extension or the path. Just the file name.
+5. output will be displayed in the console and ouput file will be generate at c:\inputfile_output.txt.
