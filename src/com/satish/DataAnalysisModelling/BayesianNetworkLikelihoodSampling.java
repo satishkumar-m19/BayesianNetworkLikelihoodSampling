@@ -17,6 +17,8 @@ public class BayesianNetworkLikelihoodSampling {
 	public static double ZValueFor95ConfidenceInterval = 1.96;
 	public static float ArrayThirtyIterationFor100Samples[][] = new float[NumberofIterations][10];
 	
+	
+	
 	public static void main (String[] args) throws IOException {
 		InputFile.openFile();
 		InputFile.readFile();
